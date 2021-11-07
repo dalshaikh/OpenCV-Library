@@ -1,2 +1,2 @@
 # OpenCV-Library
-MyOpenCV example.
+My OpenCV example.
